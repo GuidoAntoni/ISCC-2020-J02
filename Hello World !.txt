@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ∼/I-SCC-000> hello-world
+=======
+∼/I-SCC-000> hello-world
+>>>>>>> 46c7b267b946fe85e686d8247c0a11ce73a1940b
 Hello World !
